@@ -1,6 +1,6 @@
 """
 This code was written to help Data Science students 
-The Fibonacci Sequence is generated recrusively
+The Fibonacci Sequence is generated recursively
 One can terminate the code by entering "exit"
 Python 3.6.5
 """
