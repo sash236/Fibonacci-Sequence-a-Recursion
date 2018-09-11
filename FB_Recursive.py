@@ -1,7 +1,7 @@
 """
 This code was written to help Data Science students 
 The Fibonacci Sequence is generated recursively
-One can terminate the code by entering "exit"
+The program can be terminated by entering "exit"
 Python 3.6.5
 """
 import sys
